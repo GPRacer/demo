@@ -73,7 +73,9 @@ public String takeScreenshot(String TestCaseName, WebDriver driver) throws IOExc
 	File Source = ts.getScreenshotAs(OutputType.FILE);
 	File file=new File("D:\\Javaselenium_Practise\\SeleniumFrameWorkDesign"+"\\Rep\\"+TestCaseName+".png");
 	FileUtils.copyFile(Source, file);
+	System.out.println("git demo");
 	return "D:\\Javaselenium_Practise\\SeleniumFrameWorkDesign"+"\\Rep\\"+TestCaseName+".png";
+	
 }
 
 }

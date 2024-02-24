@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1708792998949">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1708792998949" javadocURL\="https\://docs.oracle.com/en/java/javase/17/docs/api/" name\="jre" path\="C\:\\Users\\GANESH\\Downloads\\eclipse-java-2023-09-R-win32-x86_64\\eclipse\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\\jre"/>\r\n    </vmType>\r\n</vmSettings>\r\n
+=======
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1708792781345">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1708792781345" name\="jre" path\="C\:\\Users\\GANESH\\Downloads\\eclipse-java-2023-09-R-win32-x86_64\\eclipse\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\\jre"/>\r\n        <vm id\="C\:\\Program Files\\Java\\jdk-21" name\="jdk-21" path\="C\:\\Program Files\\Java\\jdk-21"/>\r\n    </vmType>\r\n</vmSettings>\r\n
+>>>>>>> d34fc636aa80ce555e5dccdab74db0484b74fbb5

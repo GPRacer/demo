@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.134+C:\Users\GANESH\gitstuff\.metadata\.plugins\org.eclipse.jdt.core
 3729040657.index
 3359583781.index
@@ -85,3 +86,7 @@ INDEX VERSION 1.134+C:\Users\GANESH\gitstuff\.metadata\.plugins\org.eclipse.jdt.
 1865797976.index
 1200155050.index
 306743517.index
+=======
+INDEX VERSION 1.134+C:\Users\GANESH\demo\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+>>>>>>> d34fc636aa80ce555e5dccdab74db0484b74fbb5
